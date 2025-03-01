@@ -1,5 +1,4 @@
-Unreal Engine (Blueprint)
-Совместный проект 3D First-Person Shooter
+Совместный проект 3D First-Person Shooter в Unreal Engine (Blueprint)
 
 Реализация процедурной генерации лабиринта с использованием recursive backtracker алгоритма
 
